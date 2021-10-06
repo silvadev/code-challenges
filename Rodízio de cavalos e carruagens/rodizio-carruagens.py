@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 """Rodízio de cavalos e carruagens
+
 Implementa desafio de código 'Rodízio de cavalos e carruagens' em Python.
 Para mais detalhes consulte o README.md.
 """
