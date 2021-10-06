@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 """Exibindo Números Pares
+
 Implementa desafio de código 'Exibindo Números Pares' em Python.
 Para mais detalhes consulte o README.md.
 """
