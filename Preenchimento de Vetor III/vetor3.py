@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 """Preenchimento de Vetor III
+
 Implementa desafio de código 'Preenchimento de Vetor III' em Python.
 Para mais detalhes consulte o README.md.
 """
