@@ -1,2 +1,2 @@
-# code-challenge
+# Desafios de código
 Algorítimos de desafios de código
