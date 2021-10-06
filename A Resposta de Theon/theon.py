@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 """A Resposta de Theon
+
 Implementa desafio de código 'A Resposta de Theon' em Python.
 Para mais detalhes consulte o README.md.
 """
